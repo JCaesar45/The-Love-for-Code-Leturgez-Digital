@@ -21,6 +21,9 @@ A high-performance, polyglot architectural blueprint designed for zero-latency d
 - TypeScript gateway enforces strict per-connection rate limiting to mitigate DDoS and payload flooding.
 - Java records ensure data immutability at the JVM level, preventing state corruption.
 
+## Basic Demo
+- https://codepen.io/editor/JCaesar45/pen/019fc9f7-8e0a-72c7-880a-a04e37775393
+
 ## Licensing
 Proprietary. Unauthorized distribution or reverse engineering is strictly prohibited.
 ```
