@@ -2,7 +2,7 @@
 
 ## Overview
 A high-performance, polyglot architectural blueprint designed for zero-latency data ingestion, strict invariant validation, and high-converting frontend presentation. Built for scale, security, and absolute deterministic execution.
-
+```
 ## PROJECT STRUCTURE
 Leturgez-digital/
 ├── frontend/
@@ -18,7 +18,7 @@ Leturgez-digital/
 │   ├── utils.ts
 │   └── hooks.ts
 └── README.md
-
+```
 ## Stack Specifications
 - **Frontend**: Vanilla HTML5, CSS3 (Hardware-Accelerated), ES6+ Canvas API. Zero dependencies.
 - **Backend Ingestion**: Python 3.11+ (FastAPI) with `hashlib.sha256` for cross-run deterministic hashing.
